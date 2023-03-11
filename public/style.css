@@ -1,0 +1,73 @@
+
+body {
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(https://i.gifer.com/Cal.gif);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+  }
+  
+  .container {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .btns{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .btns button{
+    width: 45%;
+    margin: 0 20px;
+  }
+  #datas{
+    display: none;
+  }
+  #profile{
+    display: none;
+  }
+  /* Style the form input fields */
+  .form-group label {
+    font-weight: bold;
+  }
+  
+  .form-control {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+  }
+  
+  /* Style the submit button */
+  #sbtn :hover{
+    margin-top: 20px;
+    background-color: #0058b7;
+    border-color: #007bff;
+  }
+  
+  /* Style the table */
+  table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  thead {
+    background-color: #191825;
+    color: #fff;
+  }
+  
+  th, td {
+    color: #fff !important;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+
+
+  
